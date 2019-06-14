@@ -1,0 +1,12 @@
+{
+  "name": "client-info",
+  "version": "0.0.4",
+  "description": "Get client information, include os, browser, browser-shell, app",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "node ./test"
+  },
+  "author": "me@dionren.com",
+  "license": "MIT"
+}
