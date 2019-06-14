@@ -2,11 +2,20 @@
   "name": "client-info",
   "version": "0.0.4",
   "description": "Get client information, include os, browser, browser-shell, app",
+  "author": "Dion Ren <me@dionren.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dionren/client-info.git"
+  },
   "main": "index.js",
   "private": false,
   "scripts": {
     "test": "node ./test"
   },
-  "author": "me@dionren.com",
+  "keywords": [
+    "browser",
+    "client",
+    "info"
+  ],
   "license": "MIT"
 }
