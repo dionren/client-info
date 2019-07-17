@@ -2,7 +2,7 @@ import arch from './arch'
 import browserInfo from './browser-info'
 
 let clientInfo = {
-  // env = browser, wx, alipay
+  // env = browser, weixin, alipay
   env: null,
   browser: null,
 
